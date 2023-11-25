@@ -1,16 +1,27 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+This Flutter project is a simple weather application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you clone and run the project on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have Flutter installed on your machine. If not, you can follow the [official installation guide](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Clone the Repository
+
+```bash
+git clone https://github.com/kelvinmayeye/dhis2-practical-interview
+```
+
+### Navigate to your directory
+```bash
+cd dhis2-practical-interview
+```
+
+### Run the project 
+```bash
+flutter run
+```
